@@ -1,1 +1,2 @@
-http://www2.cineworld.co.uk/api/quickbook/films?key=nfhMR3xR
+http://www2.cineworld.co.uk/api/quickbook/films?key=nfhMR3xR&cinema=94
+http://www.cineworld.com/api/quickbook/cinemas?key=nfhMR3xR
